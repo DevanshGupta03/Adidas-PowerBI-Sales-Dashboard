@@ -8,7 +8,7 @@
 
 ## 📊 Project Overview
 
-This project is my **first Power BI dashboard**, created to practice the complete process of turning a raw sales dataset into an interactive business intelligence dashboard.
+This project is my **First Power BI Dashboard**, created to practice the complete process of turning a raw sales dataset into an interactive business intelligence dashboard.
 
 The project started with a raw Adidas sales dataset, which was first reviewed and cleaned using **Power Query in Power BI**. After preparing the data, it was loaded into Power BI and transformed into an interactive dashboard for analyzing sales performance.
 
