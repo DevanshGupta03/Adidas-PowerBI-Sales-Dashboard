@@ -423,7 +423,7 @@ It combines KPI cards, product analysis, revenue trends, geographic analysis and
 
 ## 🎓 Project Type
 
-**Data Analytics / Business Intelligence Portfolio Project**
+**Data Analytics / Business Intelligence Project**
 
 This is my first Power BI project, created to build practical experience with data cleaning, transformation, analysis and interactive dashboard development.
 
@@ -433,7 +433,7 @@ This is my first Power BI project, created to build practical experience with da
 
 **Devansh Gupta**
 
-Data Analytics Portfolio Project
+Data Analytics Project
 
 ---
 
